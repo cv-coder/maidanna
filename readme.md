@@ -32,7 +32,9 @@ Logger/
 ---
 
 ## 2. Book Store 项目
-**定位**：基于 Vue 3 的图书管理系统演示，重点展示了在 Vue 生态中异构集成 Redux 的架构能力。
+
+### 访问链接 
+🔗 [https://cv-coder.github.io/maidanna/](https://cv-coder.github.io/maidanna/)
 
 ###  技术栈
 - **框架**: Vue 3 (Script Setup), Vite
