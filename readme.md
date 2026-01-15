@@ -25,6 +25,8 @@ Logger/
 │   ├── transports/      # 具体日志实现 (Console, File)
 │   ├── Logger.ts        # 核心类
 │   └── types.ts         # 接口定义 (ILogTransport)
+├── doc/                 # 文档目录
+│   └── usage.md         # 详细使用指南
 └── example.ts           # 使用演示
 ```
 ---
